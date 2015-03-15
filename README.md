@@ -1,4 +1,4 @@
-# exomapi
+# exomap
 
 http://space-man.de/exomap/
 
