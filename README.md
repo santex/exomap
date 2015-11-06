@@ -1,6 +1,5 @@
 # exomap
 
-http://space-man.de/exomap/
 
 http://santex.github.io/exomap/
 
