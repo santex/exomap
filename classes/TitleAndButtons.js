@@ -16,9 +16,9 @@ function TitleAndButtons(){
 	this.xTexts = context.measureText(this.text0).width+20;
 	
 	if(VIEW==view1){
-		this.text2 = 'drag to rotate | mouse wheel to zoom | created by <ehttp://space-man.de*space-man.de*s>';
+		this.text2 = 'drag to rotate | mouse wheel to zoom | created by <ehttp://santex.github.io/exomap/*http://santex.github.io/exomap/*s>';
 	} else {
-		this.text2 = 'drag to rotate | mouse wheel to zoom | created by <ehttp://space-man.de*space-man.de*s>';
+		this.text2 = 'drag to rotate | mouse wheel to zoom | created by <ehttp://santex.github.io/exomap/*http://santex.github.io/exomap/*s>';
 	}
 	
 	
